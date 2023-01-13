@@ -1,0 +1,29 @@
+.card{
+    border: 1px solid rgba(0, 0, 0, 0.505);
+    box-shadow: rgba(0, 0, 0, 0.376) 0px 1px 4px;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 8px;
+    position: relative;
+    padding-top: 10px;
+}
+
+.card .image{
+    height: 35%;
+    width: 35%;
+    border-radius: 50%;
+}
+
+.card h2{
+    font-size: 30px;
+    color: orangered;
+}
+
+.card p{
+    color: black;
+}
+
+.card .flex{
+    justify-content: space-between; 
+}

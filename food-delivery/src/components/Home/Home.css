@@ -1,0 +1,46 @@
+.home-content{
+    margin: 50px 70px 0px 70px;
+    display: flex;
+    flex: 1 1;
+    height: 60vh;
+}
+
+.home-content .home-left{
+    padding-top: 70px;
+}
+
+.home-content .home-left .btn{
+    border-radius: 10px;
+    border: 2px solid orangered;
+    background-color: orangered;
+    height: 40px;
+    width: 120px;
+    color: white;
+    font-size: 18px;
+    transition: all .4s;
+}
+
+.home-content .home-left .btn:hover{
+    background: none;
+    color: orangered;
+    border: 2px solid orangered;
+    transition: all .4s;
+}
+
+.home-content .home-left p{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.home-content .home-left h1{
+    font-size: 65px;
+    margin-bottom: 10px;
+    color: orangered;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home-content .home-right img{
+    height: 450px;
+    width: 700px;
+}

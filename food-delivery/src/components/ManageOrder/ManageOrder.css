@@ -1,0 +1,122 @@
+.manageorder{
+    margin: 0px 30% 100px 30%;
+    position: relative;
+}
+
+.manageorder .flex{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.manageorder .flex .full h1{
+    font-size: 45px;
+}
+
+.manageorder .flex .full h2{
+    font-size: 25px;
+}
+
+.manageorder .flex .full h1 span{
+    font-weight: bold;
+}
+
+.manageorder .ordercard{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #888;
+    box-shadow: 3px 5px #888;
+    border-radius: 4px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+.manageorder .ordercard .btn{
+    width: auto;
+    height: 35px;
+    color: #fff;
+    background-color: orangered;
+    padding: 0px 5px;
+    border-radius: 10px;
+    border: 2px solid orangered;
+}
+
+.manageorder .ordercard .del-btn{
+    width: 100px;
+    height: 35px;
+    color: #fff;
+    background-color: orangered;
+    padding: 0px 5px;
+    border-radius: 10px;
+    transition: all .6s;
+    border: 2px solid orangered;
+}
+
+.manageorder .ordercard .del-btn:hover{
+    background: none;
+    color: orangered;
+    border: 2px solid orangered;
+    transition: all .6s;
+}
+
+.manageorder .total{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.manageorder .total p{
+    font-size: 20px;
+}
+
+.manageorder .total p span{
+    font-weight: 700;
+} 
+
+.manageorder .pl-btn{
+    width: 500px;
+    height: 35px;
+    color: #fff;
+    background-color: orangered;
+    padding: 0px 5px;
+    border-radius: 10px;
+    transition: all .6s;
+    border: 2px solid orangered;
+}
+
+.manageorder .pl-btn:hover{
+    background: none;
+    color: orangered;
+    border: 2px solid orangered;
+    transition: all .6s;
+}
+
+.manageorder .noorder{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.manageorder .noorder h1{
+    font-size: 55px;
+    color: orangered;
+    font-weight: 600;
+}
+
+.manageorder .noorder button{
+    height: 50px;
+    width: 120px;
+    background-color: orangered;
+    border: 2px solid orangered;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    transition: all .4s;
+}
+
+.manageorder .noorder button:hover{
+    background: none;
+    color: orangered;
+}

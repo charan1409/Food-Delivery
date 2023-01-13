@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Salad with Mozarella",
+        "img": "https://i.ibb.co/W33vYg8/dish-03-1-360x360.jpg",
+        "description": "Salad with Mozarella Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "8.99"
+    },
+    {
+        "name": "Eggs with Bacon and Salad",
+        "img": "https://i.ibb.co/wBZG1fG/dish-01-1-360x360.jpg",
+        "description": "Eggs with Bacon and Salad Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "5.99"
+    },
+    {
+        "name": "Salmon with Vegetables",
+        "img": "https://i.ibb.co/mbND9PZ/dish-02-1-360x360.jpg",
+        "description": "Salmon with Vegetables Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "12.99"
+    },
+    {
+        "name": "Red beetroot soup",
+        "img": "https://i.ibb.co/Tmt4N7f/dish-04-1-360x360.jpg",
+        "description": "Red beetroot soup Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "7.49"
+    },
+    {
+        "name": "Steaks with Asparagus",
+        "img": "https://i.ibb.co/c1dZDbf/dish-05-1-360x360.jpg",
+        "description": "Steaks with Asparagus Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "10.00"
+    },
+    {
+        "name": "Chicken with Vegetables",
+        "img": "https://i.ibb.co/MCbDjFW/dish-07-1-360x360.jpg",
+        "description": "Chicken with Vegetables Sed ut perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "12.99"
+    },
+    {
+        "name": "Grilled Chicken Breast",
+        "img": "https://i.ibb.co/QN0s892/dish-08-1-360x360.jpg",
+        "description": "Grilled Chicken Breast perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum. ",
+        "price": "9.49"
+    },
+    {
+        "name": "Tender rabbit soup",
+        "img": "https://i.ibb.co/8X67937/dish-06-1-360x360.jpg",
+        "description": "Tender rabbit soup Grilled Chicken Breast perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "6.49"
+    },
+    {
+        "name": "white planet with health salad",
+        "img": "https://i.ibb.co/W33vYg8/dish-03-1-360x360.jpg",
+        "description": "white planet with health salad Grilled Chicken Breast perspiciatis unde omnis iste natus error.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, ipsum.",
+        "price": "6.49"
+    }
+]

@@ -1,0 +1,22 @@
+.footer{
+    display: grid;
+    grid-template-columns:repeat(4,1fr) ;
+    background-color: rgba(0, 0, 0, 0.699);
+    padding-top: 20px;
+    height: 200px;
+    bottom: 0%;
+}
+
+.footer .site h2{
+    font-size: 30px;
+    color: orangered;
+    font-weight: 600;
+}
+
+.footer .site p{
+    color: #fff;
+}
+
+.footer .site i{
+    color: orangered;
+}
